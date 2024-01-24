@@ -122,13 +122,6 @@ Step 6: Open http://localhost:5000 in your browser to view the webapp
 
 
 ## Contact
-
-* Angel F 
-  - Register Number: 211418104020
-
-* Bairavi B 
-  - Register Number: 211418104033
-
 * Jey Sneha A 
   - Register Number: 211418104101
 # ZyoFiSik-YourPersonalAIFitnessTrainer
